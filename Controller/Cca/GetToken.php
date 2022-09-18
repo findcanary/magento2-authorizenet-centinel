@@ -137,7 +137,7 @@ class GetToken extends Action
     /**
      *  Get current time.
      *
-     * @return time()
+     * @return int
      * @codeCoverageIgnoreStart
      */
     protected function getTime()
