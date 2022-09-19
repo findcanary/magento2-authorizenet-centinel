@@ -18,5 +18,6 @@
         "psr-4": {
             "AuthorizeNet\\Centinel\\": ""
         }
-    }
+    },
+    "abandoned": true
 }
